@@ -1,0 +1,1 @@
+Eagle component for SL811HS USB controller IC
