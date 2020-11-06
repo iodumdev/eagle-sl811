@@ -379,38 +379,38 @@
 </packages>
 <symbols>
 <symbol name="SL811">
-<wire x1="-20.7" y1="23.3" x2="20.8" y2="23.3" width="0.127" layer="94"/>
-<wire x1="20.8" y1="23.3" x2="20.8" y2="-24.7" width="0.127" layer="94"/>
-<wire x1="20.8" y1="-24.7" x2="-20.7" y2="-24.7" width="0.127" layer="94"/>
-<wire x1="-20.7" y1="-24.7" x2="-20.7" y2="23.3" width="0.127" layer="94"/>
-<pin name="NWR" x="-25.9" y="20.8" length="middle" direction="in" function="dot"/>
-<pin name="NRD" x="-25.9" y="18.2" length="middle" direction="in" function="dot"/>
-<pin name="NCS" x="-25.9" y="15.5" length="middle" direction="in" function="dot"/>
-<pin name="NRST" x="-25.9" y="13" length="middle" direction="in" function="dot"/>
-<pin name="D7" x="-25.8" y="9.7" length="middle"/>
-<pin name="D6" x="-25.8" y="7.7" length="middle"/>
-<pin name="D5" x="-25.8" y="5.7" length="middle"/>
-<pin name="D4" x="-25.8" y="3.7" length="middle"/>
-<pin name="D3" x="-25.8" y="1.7" length="middle"/>
-<pin name="D2" x="-25.8" y="-0.3" length="middle"/>
-<pin name="D1" x="-25.8" y="-2.3" length="middle"/>
-<pin name="D0" x="-25.8" y="-4.3" length="middle"/>
-<pin name="DATA+" x="25.9" y="20.3" length="middle" rot="R180"/>
-<pin name="DATA-" x="25.9" y="18.2" length="middle" rot="R180"/>
-<pin name="VCC_USB" x="25.9" y="16.1" length="middle" direction="pwr" rot="R180"/>
-<pin name="GND_USB" x="25.9" y="14" length="middle" direction="pwr" rot="R180"/>
-<pin name="CM" x="25.9" y="10.1" length="middle" direction="in" rot="R180"/>
-<pin name="X1" x="25.9" y="6.7" length="middle" direction="in" rot="R180"/>
-<pin name="X2" x="25.9" y="4.5" length="middle" direction="out" rot="R180"/>
-<pin name="INTRQ" x="25.9" y="-1.5" length="middle" direction="out" rot="R180"/>
-<pin name="M/S" x="25.9" y="-4.8" length="middle" direction="in" rot="R180"/>
-<pin name="A0" x="-25.8" y="-8.1" length="middle" direction="in"/>
-<pin name="NDACK" x="25.9" y="-9.1" length="middle" direction="in" function="dot" rot="R180"/>
-<pin name="NDRQ" x="25.9" y="-11.6" length="middle" direction="out" function="dot" rot="R180"/>
-<pin name="VDD" x="-25.8" y="-13.9" length="middle" direction="sup"/>
-<pin name="VDD1" x="-25.8" y="-16.1" visible="off" length="middle" direction="sup"/>
-<pin name="GND" x="-25.8" y="-20.8" length="middle" direction="sup"/>
-<pin name="GND1" x="-25.8" y="-23" visible="off" length="middle" direction="sup"/>
+<wire x1="-20.32" y1="33.02" x2="20.32" y2="33.02" width="0.127" layer="94"/>
+<wire x1="20.32" y1="33.02" x2="20.32" y2="-25.4" width="0.127" layer="94"/>
+<wire x1="20.32" y1="-25.4" x2="-20.32" y2="-25.4" width="0.127" layer="94"/>
+<wire x1="-20.32" y1="-25.4" x2="-20.32" y2="33.02" width="0.127" layer="94"/>
+<pin name="NWR" x="-25.4" y="22.86" length="middle" direction="in" function="dot"/>
+<pin name="NRD" x="-25.4" y="25.4" length="middle" direction="in" function="dot"/>
+<pin name="NCS" x="-25.4" y="20.32" length="middle" direction="in" function="dot"/>
+<pin name="NRST" x="-25.4" y="30.48" length="middle" direction="in" function="dot"/>
+<pin name="D7" x="-25.4" y="15.24" length="middle"/>
+<pin name="D6" x="-25.4" y="12.7" length="middle"/>
+<pin name="D5" x="-25.4" y="10.16" length="middle"/>
+<pin name="D4" x="-25.4" y="7.62" length="middle"/>
+<pin name="D3" x="-25.4" y="5.08" length="middle"/>
+<pin name="D2" x="-25.4" y="2.54" length="middle"/>
+<pin name="D1" x="-25.4" y="0" length="middle"/>
+<pin name="D0" x="-25.419" y="-2.53978125" length="middle"/>
+<pin name="DATA+" x="25.4" y="22.86" length="middle" rot="R180"/>
+<pin name="DATA-" x="25.4" y="20.32" length="middle" rot="R180"/>
+<pin name="VCC_USB" x="25.4" y="17.78" length="middle" direction="pwr" rot="R180"/>
+<pin name="GND_USB" x="25.4" y="15.24" length="middle" direction="pwr" rot="R180"/>
+<pin name="CM" x="25.4" y="10.16" length="middle" direction="in" rot="R180"/>
+<pin name="X1" x="25.4" y="5.08" length="middle" direction="in" rot="R180"/>
+<pin name="X2" x="25.4" y="2.54" length="middle" direction="out" rot="R180"/>
+<pin name="INTRQ" x="25.4" y="-2.54" length="middle" direction="out" rot="R180"/>
+<pin name="M/S" x="25.4" y="-7.62" length="middle" direction="in" rot="R180"/>
+<pin name="A0" x="-25.4" y="-7.62" length="middle" direction="in"/>
+<pin name="NDACK" x="25.4" y="-12.7" length="middle" direction="in" function="dot" rot="R180"/>
+<pin name="NDRQ" x="25.4" y="-15.24" length="middle" direction="out" function="dot" rot="R180"/>
+<pin name="VDD" x="-25.4" y="-12.7" length="middle" direction="pwr"/>
+<pin name="VDD1" x="-25.4" y="-15.24" visible="off" length="middle" direction="pwr"/>
+<pin name="GND" x="-25.4" y="-20.32" length="middle" direction="pwr"/>
+<pin name="GND1" x="-25.4" y="-22.86" visible="off" length="middle" direction="pwr"/>
 </symbol>
 </symbols>
 <devicesets>
